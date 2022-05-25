@@ -1,0 +1,9 @@
+{
+	"name": "jdeanADFTutorialDataFactory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7991732c-370f-479b-99ca-c18b23290aa8",
+		"tenantId": "687f51c3-0c5d-4905-84f8-97c683a5b9d1"
+	}
+}
